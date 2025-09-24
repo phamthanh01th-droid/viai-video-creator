@@ -1,0 +1,5 @@
+{
+  "name": "ViraScript AI Studio",
+  "description": "An AI Director's Workbench that transforms ideas into interactive storyboards. Users can generate, preview, and download individual video clips for each scene on-demand, offering a flexible and uncoupled video creation experience.",
+  "requestFramePermissions": []
+}
